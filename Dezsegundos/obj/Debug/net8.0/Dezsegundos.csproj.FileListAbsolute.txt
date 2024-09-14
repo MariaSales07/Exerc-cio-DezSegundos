@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Dezsegundos\bin\Debug\net8.0\Dezsegundos.exe
+C:\Users\user\Documents\Dezsegundos\bin\Debug\net8.0\Dezsegundos.deps.json
+C:\Users\user\Documents\Dezsegundos\bin\Debug\net8.0\Dezsegundos.runtimeconfig.json
+C:\Users\user\Documents\Dezsegundos\bin\Debug\net8.0\Dezsegundos.dll
+C:\Users\user\Documents\Dezsegundos\bin\Debug\net8.0\Dezsegundos.pdb
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\Dezsegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\Dezsegundos.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\Dezsegundos.AssemblyInfo.cs
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\Dezsegundos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\Dezsegundos.dll
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\refint\Dezsegundos.dll
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\Dezsegundos.pdb
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\Dezsegundos.genruntimeconfig.cache
+C:\Users\user\Documents\Dezsegundos\obj\Debug\net8.0\ref\Dezsegundos.dll
